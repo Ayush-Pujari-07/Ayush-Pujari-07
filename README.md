@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Ayush-Pujari-07/Ayush-Pujari-07)
+- 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07)
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP**
 
