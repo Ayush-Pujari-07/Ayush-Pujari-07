@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ayush Pujari</h1>
 <h3 align="center">A Data Scientist from India</h3>
-<img align="right" alt="Coding" width="300" src="https://www.freepik.com/premium-photo/animated-cute-robot-great-design-any-purposes-cartoon-realistic-bot-animal-character-design-internet-communication-comic-drawing-cute-character-design-comic-background_44110791.htm#page=3&query=ai%20animation&position=19&from_view=keyword&track=ais">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/animated-cute-robot-great-design-any-purposes-cartoon-realistic-bot-animal-character-design-internet-communication-comic-drawing-cute-character-design-comic-background_155807-8709.jpg?w=1060">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Pujari-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Pujari-07" /> </p>
 
