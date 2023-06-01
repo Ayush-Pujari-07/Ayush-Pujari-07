@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaygp18&label=Profile%20views&color=0e75b6&style=flat" alt="akshaygp18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Pujari-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Pujari-07" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07/Ayush-Pujari-07)
+- 👨‍💻 All of my projects are available at (https://github.com/Ayush-Pujari-07/Ayush-Pujari-07)
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP**
 
