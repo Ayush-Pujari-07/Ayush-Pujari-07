@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayush Pujari</h1>
-<h3 align="center">A Data Scientist from India</h3>
+<h3 align="center">An AI & ML Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/animated-cute-robot-great-design-any-purposes-cartoon-realistic-bot-animal-character-design-internet-communication-comic-drawing-cute-character-design-comic-background_155807-8709.jpg?w=1060">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Pujari-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Pujari-07" /></p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **AI** and **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **Deep Learning, Computer Vision, Natural language processing**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for collaborations for **AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07?tab=repositories)
 
-- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP**
+- 💬 Ask me about **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP, Flask, FastAPI**
 
 - 📫 How to reach me **ayush08.pujari@gmail.com**
 
