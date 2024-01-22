@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Pujari-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Pujari-07" /></p>
 
-- 🔭 I’m currently working on **AI** and **Machine Learning Projects**
+- 🔭 I’m currently working as **AI** and **Machine Learning Engineer**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, Natural language processing**
+- 🌱 I’m currently learning and implementing **Deep Learning, Computer Vision, Natural Language Processing** techniques
 
-- 🤝 I’m looking for collaborations for **AI Projects**
+- 🤝 I’m looking for collaborations on **AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07?tab=repositories)
 
 - 💬 Ask me about **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP, Flask, FastAPI**
 
-- 📫 How to reach me **ayush08.pujari@gmail.com**
+- 📫 How to reach me: [ayush08.pujari@gmail.com](mailto:ayush08.pujari@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
