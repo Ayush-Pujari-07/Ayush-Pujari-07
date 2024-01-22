@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Pujari-07&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Pujari-07" /></p>
 
-- 🔭 I’m currently working as **AI** and **Machine Learning Engineer**
+- 🔭 Currently engaged as an **AI and Machine Learning Engineer**, where I actively contribute to the development and implementation of cutting-edge AI solutions.
 
 - 🌱 Currently delving into the realms of Deep Learning, where I actively apply my knowledge to projects focused on Computer Vision and Natural Language Processing.
 
-- 🤝 I’m looking for collaborations on **AI Projects**
+- 🤝 Open to collaborative opportunities in the realm of **AI projects**. Let's join forces to bring innovative ideas to life!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07?tab=repositories)
   
-- 💬 Ask me about **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics,
-  AWS, Deep Learning Models, Computer Vision, NLP, Flask, FastAPI**
+- 💬 Feel free to reach out for discussions on **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP, Flask, and FastAPI**. I'm here to share knowledge and insights!
 
 - 📫 How to reach me: [ayush08.pujari@gmail.com](mailto:ayush08.pujari@gmail.com)
 
