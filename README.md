@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for collaborations on **AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush-Pujari-07](https://github.com/Ayush-Pujari-07?tab=repositories)
-
-- 💬 Ask me about **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics, AWS, Deep Learning Models, Computer Vision, NLP, Flask, FastAPI**
+  
+- 💬 Ask me about **SQL, MongoDB, Power BI, Python, Machine Learning, Statistics,
+  AWS, Deep Learning Models, Computer Vision, NLP, Flask, FastAPI**
 
 - 📫 How to reach me: [ayush08.pujari@gmail.com](mailto:ayush08.pujari@gmail.com)
 
