@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **AI** and **Machine Learning Engineer**
 
-- 🌱 I’m currently learning and implementing **Deep Learning, Computer Vision, Natural Language Processing** techniques
+- 🌱 I’m currently learning and implementing **Deep Learning, Computer Vision, Natural Language Processing** on my projects
 
 - 🤝 I’m looking for collaborations on **AI Projects**
 
